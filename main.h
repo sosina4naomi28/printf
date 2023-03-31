@@ -19,7 +19,7 @@
 #define S_SHORT 1
 
 /**
- * struct fmt - sruct op
+ * struct fmt - sruct OP
  *
  * @fmt: the format
  * @fn: the function associated
