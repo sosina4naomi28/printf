@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - Entry Point
+ * Main - Entry Point
  *
  * Return: Always 0
  */
